@@ -4,7 +4,7 @@
 
 <p align="center">
     <img 
-        src="./assets/cover.jpeg"
+        src="./assets/cover.png"
         width="300"
         border-radius="300"
     />
