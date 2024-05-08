@@ -1,7 +1,5 @@
 # Vídeo: Ética e IAs Generativas - Análise dos dilemas éticos em torno do uso de Inteligências Artificiais
 
----
-
 <p align="center">
     <img 
         src="./assets/cover.png"
